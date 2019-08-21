@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": ">=0.18.1",
     "element-ui": "^2.0.1",
     "lodash": "^4.17.4",
     "vue": "^2.5.2",
@@ -62,7 +62,7 @@
     "vue-template-compiler": "^2.5.2",
     "wcer": "^1.0.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3",
+    "webpack-dev-server": ">=3.1.11",
     "webpack-merge": "^4.1.0",
     "ws": "^3.2.0"
   }
